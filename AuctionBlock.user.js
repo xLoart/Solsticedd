@@ -3,7 +3,7 @@
 // @namespace    Loart
 // @author       Loart
 // @version      2
-// @description  Adds auction history (with caching) and blocks users in auctions.
+// @description  Adds auction history and blocks users in auctions.
 // @match        https://www.neopets.com/auctions.phtml*
 // @match        https://www.neopets.com/genie.phtml*
 // @grant        none
